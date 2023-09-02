@@ -1,0 +1,52 @@
+
+body{
+    display: flex;
+    border: 2px solid rgb(206, 151, 231);
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.Contenedor-principal{
+    display: flex;
+    border: 2px solid rgb(85, 73, 161);
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+    /*padding-top: 10px;*/
+}
+
+.img{
+
+    height: 100%;
+    width:  100%;
+}
+
+.contenedor-imagen{
+    border: 5px solid slateblue;
+    border-radius: 50%;
+    height: 15rem;
+    width: 15rem;
+    overflow: hidden;
+}
+
+#div-ejemplo div{
+    font-size: 30px;
+}
+
+#Facebook{
+    background-color: rgb(136, 196, 248);
+    width: 60px;
+}
+
+#Google{
+    background-color: rgb(138, 247, 187);
+    width: 80px;
+}
+
+#Messenger{
+    background-color: rgb(252, 77, 106);
+    width: 100px;
+}

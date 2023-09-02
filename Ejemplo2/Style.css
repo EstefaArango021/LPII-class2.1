@@ -1,0 +1,42 @@
+.pequeno{
+ background-color: rgb(211, 170, 205);
+ width: 150px;
+ height: 350px;
+}
+
+#primer-h1{
+    color:rgb(1, 12, 12);
+}
+
+p{
+    color: rgb(14, 13, 14);
+    font-size: 30px;
+}
+
+#div-ejemplo{
+    position: relative;
+    margin-top: 30px;
+    border: 3px solid rgb(178, 168, 243);
+    width: 16vw;
+    padding: 20px;
+}
+
+
+#div-ejemplo div{
+    font-size: 30px;
+}
+
+#blue{
+    background-color: rgb(136, 196, 248);
+    width: 60px;
+}
+
+#green{
+    background-color: rgb(138, 247, 187);
+    width: 80px;
+}
+
+#red{
+    background-color: rgb(252, 77, 106);
+    width: 100px;
+}
